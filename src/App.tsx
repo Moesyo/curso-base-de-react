@@ -55,7 +55,7 @@ export function App() {
                   }
                   }
                 >
-                  Concluir
+                  Concluirl
                 </button>
                 <button onClick={() => setList(//função para remover o item da lista
                   list.filter(//filtra a lista e retorna todos os itens que não são o item clicado
